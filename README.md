@@ -1,4 +1,4 @@
-# LINUX & GIT (2 days)
+# LINUX & GIT (3 days)
 
 ## Linux
 
